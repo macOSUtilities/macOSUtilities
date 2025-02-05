@@ -4,7 +4,7 @@ Our main developer, @kingkwahli, creates our improvement and redesigns of poorly
 
 This readme will be fully filled out soon!
 
-Get in touch with the lead developer at (kwahli@naazimapps.com)[mailto:kwahli@naazimapps.com] or personally at (kwahli11@icloud.com)[mailto:kwahli11@icloud.com].
+Get in touch with the lead developer at [kwahli@naazimapps.com](mailto:kwahli@naazimapps.com) or personally at [kwahli11@icloud.com](mailto:kwahli11@icloud.com).
 <!--
 **macOSUtilities/macOSUtilities** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
